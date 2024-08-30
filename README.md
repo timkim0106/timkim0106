@@ -8,7 +8,6 @@ I am a 3rd year transfer student at University of California, Irvine majoring in
 - **Data Analysis**: Experienced in using data to drive decisions, uncover insights, and develop strategies.
 - **Team Collaboration**: Skilled in working within teams to tackle complex problems and deliver high-quality solutions.
 
-### What I’m Looking For
 I'm currently seeking opportunities where I can apply my technical expertise and strategic mindset to contribute to impactful projects.
 
 ### Connect with Me
