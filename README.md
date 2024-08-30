@@ -1,7 +1,7 @@
 
 ## Hello! I'm Timothy Kim
 
-I am a junior transfer to University of California, Irvine majoring in Computer Science and Engineering, with a diverse skill set in software development and data analysis. My unique background as a professional League of Legends athlete has sharpened my ability to critically think and solve problems quickly. I am driven to create innovative projects, and craft impactful solutions, especially in a collaborative team environment.
+I am a 3rd year transfer student at University of California, Irvine majoring in Computer Science and Engineering, with a diverse skill set in software development and data analysis. My unique background as a professional League of Legends athlete has sharpened my ability to critically think and solve problems quickly. I am driven to create innovative projects, and craft impactful solutions, especially in a collaborative team environment.
 
 ### What I Do
 - **Software Development**: Proficient in multiple programming languages and frameworks. Passionate about creating efficient, scalable, and maintainable code.
