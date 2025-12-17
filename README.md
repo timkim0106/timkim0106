@@ -1,18 +1,18 @@
 
 ## Hello! I'm Timothy Kim
 
-I'm a 4th year undergraduate student at University of California, Irvine studying Computer Science and Engineering. This past summer, I worked as a Software Engineer Intern on the Tools team for Marvel SNAP at Second Dinner.
+I'm a 4th year undergraduate student at University of California, Irvine studying Computer Science and Engineering. I worked as a Software Engineering Intern at a Specialty Pharmacy Consulting to develop a clinical software platform and refactor their website. I was also part of the Tools team for Marvel SNAP at Second Dinner this past summer where I mainly focused on identifying and removing inefficiencies in the reward content development process.
 
 Previously, I competed as a professional League of Legends athlete for 4 years. These experiences instilled in me a deep passion for the gaming industry and sharpened my ability to critically think and solve problems quickly. I now strive to apply these skills to build robust developer tools and engineering solutions that empower teams to create innovative products. 
 
 ### My Focus
-- **Game Development & Tooling**: At Second Dinner, I contributed to the core developer toolchain for a live, top-grossing mobile game. I gained hands-on experience improving the content authoring pipeline, automating data validation, and working within a complex CI/CD environment. I'm passionate about leveraging my experience to enhance development infrastructure and empower creative teams.
+- **Game Development & Tooling**: At Second Dinner, I contributed to the various internal tools for a live service mobile game. I gained hands-on experience improving the content authoring pipeline, automating data validation, and working with CI/CD pipelines. I'm passionate about leveraging my experience to enhance development infrastructure and empower creative teams.
 
 - **Software Design & Maintainability**: I focus on writing clean, scalable, and maintainable code. My recent work involved refactoring core data parsing systems to be more flexible using callbacks and creating validation tools to prevent bugs before they ever reach production. I believe that code should be as easy to understand as it is to run.
 
 - **Collaborative Problem-Solving**: Whether it's in a high-stakes esports match or a deep-dive on a complex codebase, I thrive in collaborative environments. I believe the best solutions come from clear communication, proactive feedback, and a shared drive for excellence.
 
-I am actively seeking full-time Software Engineering opportunities for Summer 2026 and beyond. While I'm interested in game development, tools engineering, and backend systems, my core drive is the opportunity to solve complex challenges, work with other passionate individuals, and develop incredible products to life, regardless of the industry.
+I am actively seeking Software Engineering opportunities for Summer 2026 and beyond. While I'm interested in game development, tools engineering, and backend systems, my core drive is the opportunity to solve complex challenges, work with other passionate individuals, and develop incredible products to life in any industry.
 
 ### Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/timothy-kim122/) 
